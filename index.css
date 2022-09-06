@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: palevioletred;
+}
+
+.contenedor {
+    width: 50%;
+    height: 80vh;
+    background-color: rgb(196, 160, 236);
+    margin: 40px auto;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: pink;
+    font-size: 30px;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(96, 130, 177);
+    font-size: 15px;
+    padding: 10px;
+}
+
+.centrado {
+    text-align: center;
+    background-color: rgb(222, 213, 231);
+    padding: 2%;
+    margin: 5%;
+}
+
+li {
+    list-style: none;
+}
